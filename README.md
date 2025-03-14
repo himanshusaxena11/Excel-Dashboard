@@ -29,3 +29,6 @@ Plot shows sales % distribution as per different states
 
 ### Top 10 sub-categories
 This plot shows top categories by sales in mln
+
+## Excel Dashboard link
+https://github.com/himanshusaxena11/Excel-Dashboard/blob/264851721afce8d1032cdabf23aa103c9fee6d18/Screenshot%202025-03-12%20171434.png
